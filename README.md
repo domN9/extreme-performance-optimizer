@@ -1,5 +1,11 @@
 # extreme-performance-optimizer
-🚀 Ultimate Gaming Optimizer v2.0 - FPS Boost - Memory Optimization  - GPU Enhancement - System Cleaning  By: AbdulRahman Khalid Bahaj Discord: l_n8
+🚀 Ultimate Gaming Optimizer v2.0 - FPS Boost - Memory Optimization  - GPU Enhancement - System Cleaning  By: AbdulRahman Khalid Bahaj 
+Discord: l_n8
+
+
+
+
+
 Professional Gaming Optimizer
 ━━━━━━━━━━━━━━━━━━━━━━
 • FPS & Gaming Performance Boost
@@ -21,3 +27,9 @@ Discord: l_n8
 • Creates automatic restore point
 • Safe & tested optimizations
 • Recommended for gaming PCs
+
+
+
+
+
+Discord: l_n8
